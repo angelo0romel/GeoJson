@@ -1,2 +1,2 @@
 # GeoJson
-GMP Javascript API
+GMP Javascript Snip.
